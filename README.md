@@ -1,2 +1,4 @@
 # Neural-Network-Fruit-Classifier
-An implementation of a fully connected feed forward neural network classifier from scratch
+This project is an implementation of a fully connected feed forward neural network classifier from scratch to classify fruits from the Fruit-360 dataset (only raspberry, mango, lemon meyer, and apple braeburn instances are used in this project).
+<br>
+Detailed explanation is included in the jupyternotebook of the project.
